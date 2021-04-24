@@ -1,0 +1,12 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: ict-trust-app
+  profiles:
+    active: "prod"
+
+
+
+
